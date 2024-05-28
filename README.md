@@ -1,6 +1,10 @@
 # Identicon
 
-**TODO: Add description**
+**
+- An identicon generating application.
+- Image will be generated based on the name entered by the user.
+- Same image will be generated for the same name everytime.
+**
 
 ## Installation
 
